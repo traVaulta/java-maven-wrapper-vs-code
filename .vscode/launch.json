@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "Run using mvn wrapper",
-      "type": "cppdbg",
+      "type": "java",
       "request": "launch",
       "program": "${workspaceFolder}/mvnw",
       "windows": { "program": ".\\mvnw.cmd" },

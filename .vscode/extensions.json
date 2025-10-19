@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",           // Main Java Extension Pack (includes Maven, Debugger, etc.)
+    "vscjava.vscode-maven",               // Maven support
+    "vscjava.vscode-java-test",           // Java Test Runner
+    "vscjava.vscode-java-debug",          // Java Debugger
+    "redhat.java",                        // Language Support for Java by Red Hat
+    "pivotal.vscode-spring-boot",         // (Optional) Spring Boot support if using Spring
+    "GabrielBB.vscode-lombok"             // (Optional) Lombok support if using Lombok
+  ]
+}
