@@ -7,13 +7,13 @@ Project template for running Java Maven Wrapper in StackBlitz or VS Code
 - installed JDK version 24
 - installed Maven version 3.8.x
 
-### Running wrapper
+### Running wrapper (Windows machine)
 
 ```shell
-./mvnw clean install
+.\\mvnw.cmd clean install
 ```
 ```shell
-./mvnw compile exec:java -Dexec.mainClass="cvrk.matija.sample.Application"
+.\\mvnw.cmd compile exec:java -Dexec.mainClass="cvrk.matija.sample.Application"
 ```
 
 ### Running in StackBlitz
