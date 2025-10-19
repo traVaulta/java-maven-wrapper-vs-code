@@ -1,6 +1,6 @@
 ## Java Maven Wrapper VS Code project template
 
-Project template for running Java Maven Wrapper in StackBlitz or VS Code
+Project template for running Java Maven Wrapper in VS Code
 
 ### Requirements
 
@@ -16,7 +16,7 @@ Project template for running Java Maven Wrapper in StackBlitz or VS Code
 .\\mvnw.cmd compile exec:java -Dexec.mainClass="cvrk.matija.sample.Application"
 ```
 
-### Running in StackBlitz
+### Open template in StackBlitz (just for show)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/traVaulta/java-maven-wrapper-vs-code)
 
