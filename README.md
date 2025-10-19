@@ -20,6 +20,12 @@ Project template for running Java Maven Wrapper in StackBlitz or VS Code
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/traVaulta/java-maven-wrapper-vs-code)
 
+### Add archetype locally
+
+```shell
+mvn archetype:create-from-project
+```
+
 ## Author
 
 - [Matija Čvrk](https://hr.linkedin.com/in/matija-%C4%8Dvrk-1388b3101/)
