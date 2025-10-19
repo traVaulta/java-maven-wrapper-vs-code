@@ -3,14 +3,14 @@
   "tasks": [
     {
       "label": "install using mvn wrapper",
-      "type": "./mvnw",
-      "command": "clean install",
+      "type": "shell",
+      "command": ".\\mvnw.cmd clean install",
       "problemMatcher": []
     },
     {
       "label": "execute using mvn wrapper",
-      "type": "./mvnw",
-      "command": "ccompile exec:java -Dexec.mainClass=\"cvrk.matija.sample.Application\"",
+      "type": "shell",
+      "command": ".\\mvnw.cmd ccompile exec:java -Dexec.mainClass=\"cvrk.matija.sample.Application\"",
       "problemMatcher": []
     }
   ]

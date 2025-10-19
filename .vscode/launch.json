@@ -6,7 +6,7 @@
       "type": "cppdbg",
       "request": "launch",
       "program": "${workspaceFolder}/mvnw",
-      "windows": { "program": ".\\mvnw" },
+      "windows": { "program": ".\\mvnw.cmd" },
       "linux": { "program": "./mvnw" },
       "osx": { "program": "./mvnw" },
       "args": ["exec:java", "-Dexec.mainClass=\"cvrk.matija.sample.Application\""],
