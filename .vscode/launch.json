@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run using mvn wrapper",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/mvnw",
+      "windows": { "program": ".\\mvnw" },
+      "linux": { "program": "./mvnw" },
+      "osx": { "program": "./mvnw" },
+      "args": ["exec:java", "-Dexec.mainClass=\"cvrk.matija.sample.Application\""],
+      "stopAtEntry": false
+    }
+  ]
+}

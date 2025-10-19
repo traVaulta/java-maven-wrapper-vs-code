@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "install using mvn wrapper",
+      "type": "./mvnw",
+      "command": "clean install",
+      "problemMatcher": []
+    },
+    {
+      "label": "execute using mvn wrapper",
+      "type": "./mvnw",
+      "command": "ccompile exec:java -Dexec.mainClass=\"cvrk.matija.sample.Application\"",
+      "problemMatcher": []
+    }
+  ]
+}
