@@ -26,10 +26,10 @@ Project template for running Java Maven Wrapper in VS Code
 mvn archetype:create-from-project
 ```
 
-## Author
-
-- [Matija Čvrk](https://hr.linkedin.com/in/matija-%C4%8Dvrk-1388b3101/)
-
 ## License
 
 - [GNU AGPL Version 3](./LICENSE)
+
+## Author
+
+- [Matija Čvrk](https://www.linkedin.com/in/matijacvrk)
